@@ -1,2 +1,2 @@
 # CSAD-Mapping
-Corcoran School of the Arts and Design – Dimensions for creatives. This repo contains 3D mappings and SketchUp tools for mocking up art during the planning stage for exhibitions. 
+Corcoran School of the Arts and Design – This tool provides a virtual representation of the Corcoran gallery spaces, allowing artists and designers to see how their work will look and make adjustments as needed. This helps to ensure that the installation process goes smoothly.
